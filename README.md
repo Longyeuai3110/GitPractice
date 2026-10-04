@@ -1,8 +1,10 @@
 \# Git Practice
 
-Họ tên: 
+Họ tên:
 
-MSSV: 
+MSSV:
 
 Lớp:
+
+Console.WriteLine("Hello Git and GitHub");
 
