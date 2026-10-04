@@ -1,10 +1,10 @@
 \# Git Practice
 
-Họ tên:
+Họ tên:Trần Thành Long	
 
-MSSV:
+MSSV:24030799
 
-Lớp:
+Lớp:24DHCT
 
 Console.WriteLine("Hello Git and GitHub a");
 
