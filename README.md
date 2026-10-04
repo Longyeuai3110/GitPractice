@@ -6,5 +6,5 @@ MSSV:
 
 Lớp:
 
-Console.WriteLine("Hello Git and GitHub");
+Console.WriteLine("Hello Git and GitHub a");
 
